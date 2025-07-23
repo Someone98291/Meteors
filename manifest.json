@@ -1,0 +1,22 @@
+{
+  "name": "Meteor Madness",
+  "short_name": "MeteorMadness",
+  "description": "Dodge meteors and survive as long as you can!",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/cCvMNxKS/image.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/cCvMNxKS/image.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
